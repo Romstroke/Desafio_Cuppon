@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav a img{
+    width:max-content;
+    height: 25px;
+}
+
+.card{
+    max-width: 370px;
+    height: 500px;
+}
+
+form{
+    font-weight: 300;
+}
+
+footer{
+    color: #707070;
+}
+
+footer img{
+    height: 24px;
+}
+
+footer p{
+    font-weight: 300;
+    
+}
